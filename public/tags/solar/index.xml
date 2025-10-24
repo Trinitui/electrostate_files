@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Solar on Electrostate</title>
+    <link>https://example.org/tags/solar/</link>
+    <description>Recent content in Solar on Electrostate</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 23 Oct 2025 16:17:03 -0400</lastBuildDate>
+    <atom:link href="https://example.org/tags/solar/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Starting a blog</title>
+      <link>https://example.org/blog/starting-a-blog/</link>
+      <pubDate>Thu, 23 Oct 2025 16:17:03 -0400</pubDate>
+      <guid>https://example.org/blog/starting-a-blog/</guid>
+      <description>&lt;h2 id=&#34;why&#34;&gt;Why?&lt;/h2&gt;&#xA;&lt;p&gt;Since March 2020 I&amp;rsquo;ve wanted to journal about life, and the past five and a half years have just been full of reasons why a journal of these times is so important.&lt;/p&gt;&#xA;&lt;p&gt;But why the name? I&amp;rsquo;m really excited by what is going on in electrification, specifically with solar panels taking off in a huge way over the past two to three years. I&amp;rsquo;m hoping this planet&amp;rsquo;s journey to a more solar powered future is a prominent theme to this blog.&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<h2 id="why">Why?</h2>
+<p>Since March 2020 I&rsquo;ve wanted to journal about life, and the past five and a half years have just been full of reasons why a journal of these times is so important.</p>
+<p>But why the name? I&rsquo;m really excited by what is going on in electrification, specifically with solar panels taking off in a huge way over the past two to three years. I&rsquo;m hoping this planet&rsquo;s journey to a more solar powered future is a prominent theme to this blog.</p>
+<p>This is short and sweet, but it&rsquo;s the start - I&rsquo;ll take to you(?) in a bit.</p>
+]]></content:encoded>
+    </item>
+  </channel>
+</rss>
