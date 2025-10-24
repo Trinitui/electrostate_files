@@ -2,7 +2,6 @@
 date = '2025-10-23T16:17:03-04:00'
 draft = false
 title = 'Starting a blog'
-weight = 2
 author = "Andrew Whelan"
 description = "Starting this blog"
 tags = ["personal","Solar"]

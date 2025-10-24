@@ -9,18 +9,6 @@
     <lastBuildDate>Fri, 24 Oct 2025 16:42:43 -0400</lastBuildDate>
     <atom:link href="https://example.org/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Starting a blog</title>
-      <link>https://example.org/blog/starting-a-blog/</link>
-      <pubDate>Thu, 23 Oct 2025 16:17:03 -0400</pubDate>
-      <guid>https://example.org/blog/starting-a-blog/</guid>
-      <description>&lt;h2 id=&#34;why&#34;&gt;Why?&lt;/h2&gt;&#xA;&lt;p&gt;Since March 2020 I&amp;rsquo;ve wanted to journal about life, and the past five and a half years have just been full of reasons why a journal of these times is so important.&lt;/p&gt;&#xA;&lt;p&gt;But why the name? I&amp;rsquo;m really excited by what is going on in electrification, specifically with solar panels taking off in a huge way over the past two to three years. I&amp;rsquo;m hoping this planet&amp;rsquo;s journey to a more solar powered future is a prominent theme to this blog.&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<h2 id="why">Why?</h2>
-<p>Since March 2020 I&rsquo;ve wanted to journal about life, and the past five and a half years have just been full of reasons why a journal of these times is so important.</p>
-<p>But why the name? I&rsquo;m really excited by what is going on in electrification, specifically with solar panels taking off in a huge way over the past two to three years. I&rsquo;m hoping this planet&rsquo;s journey to a more solar powered future is a prominent theme to this blog.</p>
-<p>This is short and sweet, but it&rsquo;s the start - I&rsquo;ll take to you(?) in a bit.</p>
-]]></content:encoded>
-    </item>
-    <item>
       <title>Video Game Roundup Late October 2025</title>
       <link>https://example.org/blog/video-game-roundup-late-october-2025/</link>
       <pubDate>Fri, 24 Oct 2025 16:42:43 -0400</pubDate>
@@ -56,6 +44,18 @@
 <p><img src="https://images.squarespace-cdn.com/content/v1/59552faaff7c50fb8b38c931/15436b60-9522-41a7-921a-2de429bd3826/DJI_0868.JPG?format=1500w" alt="image"></p>
 <p>I consider Medfield to be typical of suburbia in the greater Boston area, and so what is accomplishable here should be portable to lots of different places in the region. Some solutions will be easier to implement than others, but I think this town is a good yardstick for what the region can get on board with.</p>
 <p>The region needs to get on board more - not just from a &ldquo;Save the Earth&rdquo; perspective, but from the real practicalities of Solar power. The sun shines everywhere, all day, and once you get that panel installed it&rsquo;s only a matter of time before it pays itself off. And then you are using the sun to power your car, or your AC, or anything else. It&rsquo;s a powerful idea - and we need to embrace it here.</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Starting a blog</title>
+      <link>https://example.org/blog/starting-a-blog/</link>
+      <pubDate>Thu, 23 Oct 2025 16:17:03 -0400</pubDate>
+      <guid>https://example.org/blog/starting-a-blog/</guid>
+      <description>&lt;h2 id=&#34;why&#34;&gt;Why?&lt;/h2&gt;&#xA;&lt;p&gt;Since March 2020 I&amp;rsquo;ve wanted to journal about life, and the past five and a half years have just been full of reasons why a journal of these times is so important.&lt;/p&gt;&#xA;&lt;p&gt;But why the name? I&amp;rsquo;m really excited by what is going on in electrification, specifically with solar panels taking off in a huge way over the past two to three years. I&amp;rsquo;m hoping this planet&amp;rsquo;s journey to a more solar powered future is a prominent theme to this blog.&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<h2 id="why">Why?</h2>
+<p>Since March 2020 I&rsquo;ve wanted to journal about life, and the past five and a half years have just been full of reasons why a journal of these times is so important.</p>
+<p>But why the name? I&rsquo;m really excited by what is going on in electrification, specifically with solar panels taking off in a huge way over the past two to three years. I&rsquo;m hoping this planet&rsquo;s journey to a more solar powered future is a prominent theme to this blog.</p>
+<p>This is short and sweet, but it&rsquo;s the start - I&rsquo;ll take to you(?) in a bit.</p>
 ]]></content:encoded>
     </item>
   </channel>

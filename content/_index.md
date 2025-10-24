@@ -10,6 +10,6 @@ A blog of the these strange, strange, 2020's
 
 Entries [here](https://trinitui.github.io/electrostate_files/blog/)
 
-Personal Website: https://trinitui.github.io/TrinituiCom/
-Fediverse: trinitui@mstdn.games
-Neocities: https://trinitui.neocities.org/
+- Personal Website: https://trinitui.github.io/TrinituiCom/
+- Fediverse: trinitui@mstdn.games
+- Neocities: https://trinitui.neocities.org/
