@@ -2,6 +2,7 @@
 date = '2025-10-24T16:42:43-04:00'
 draft = false
 title = 'Video Game Roundup Late October 2025'
+tags = ['Video Games']
 +++
 
 # Video Game Roundup

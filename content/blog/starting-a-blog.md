@@ -5,7 +5,7 @@ title = 'Starting a blog'
 weight = 2
 author = "Andrew Whelan"
 description = "Starting this blog"
-tags = ["personal","solar"]
+tags = ["personal","Solar"]
 
 +++
 
