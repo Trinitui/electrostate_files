@@ -2,6 +2,7 @@
 date = '2025-10-23T18:29:40-04:00'
 draft = false
 title = 'Solar Dreams'
+tags = ['Solar']
 +++
 
 # The Sun Shines Everywhere
