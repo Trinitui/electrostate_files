@@ -4,7 +4,7 @@ menu: "main"
 weight: 1
 ---
 
-## A blog of the these strange, strange, 2020's
+## A log in the these strange, strange, 2020's
 
 Entries [here](https://trinitui.github.io/electrostate_files/blog/)
 
