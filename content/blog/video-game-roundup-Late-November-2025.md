@@ -36,4 +36,4 @@ In my mind this is a flash game, even though it really isn't. This is a flash ga
 
 ### Battlefield 6
 
-Been playing this on and off, but it can be hard to find time to devote to this with so much otehr good stuff out there
+Been playing this on and off, but it can be hard to find time to devote to this with so much other good stuff out there
