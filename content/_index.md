@@ -8,7 +8,7 @@ weight: 1
 
 Entries [here](https://trinitui.github.io/electrostate_files/blog/)
 
-Also -
-- Personal Website: https://trinitui.github.io/TrinituiCom/
+You can also find me online here - 
+- Personal Website: https://trinitui.com
 - Fediverse: trinitui@mstdn.games
 - Neocities (Discontinued): https://trinitui.neocities.org/
