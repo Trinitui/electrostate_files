@@ -1,6 +1,6 @@
 +++
 date = '2025-11-16T16:43:27-05:00'
-draft = true
+draft = false
 title = 'Video Game Roundup Late November 2025'
 tags = ['Video Games']
 +++
@@ -15,6 +15,15 @@ Here's a view of the games I've been playing recently.
 They finally made a decent followup to Vicky 2, and put it in a nearly over-designed game. Love it, love playing it, love not know what the heck is going on, and love that these are the early days and more content is coming. This is a wonderful game on it's own, and a fantastic foundation for future content. 
 
 It's also worth noting that they answered the question of "What could you possibly do after 12 years of EU4 and it's updates" with a pretty amazing response - take the bones of EU4 but make it a deeper simulation, and in so doing add mechanics and features that alow the game to grow laterally. Pretty clever stuff. BUT - I wonder how much longer Paradox can keep this up?
+
+I've been exploring the game with these nations:
+- Holland
+- Livonian Order
+- Egypt
+
+One of the strengths of EU5 is that it takes the flavor and interesting mechanics/elements that you can find not playing in Europe from EU4 - this is a huge change from when EU4 went live and Europe was the focus. 
+
+Another strength is that playing a small nation is fun! You can literally build it up from scratch! 
 
 ### Wall World 2
 
