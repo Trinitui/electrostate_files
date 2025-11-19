@@ -2,6 +2,7 @@
 date = '2025-1011-19T07:46:53-04:00'
 draft = true
 title = 'Ascension Reflections'
+tags = ['Video Games']
 +++
 # Ascension: Chronicle of the Godslayer (2010 - 2025)
 
