@@ -1,9 +1,9 @@
 +++
-date = '2025-10-25T15:46:53-04:00'
+date = '2025-1011-19T07:46:53-04:00'
 draft = true
 title = 'Ascension Reflections'
 +++
-# Ascension: Chronicle of the Godslayer (2010 - 2021)
+# Ascension: Chronicle of the Godslayer (2010 - 2025)
 
 This is my favorite deckbuilding game . It's insipired by Magic (a bit) but every card you can obtain is contained in the deck the game gives you. It's a great system, since the decks you make are up to the cards that show up during the game.
 
