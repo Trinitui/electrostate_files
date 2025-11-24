@@ -2,7 +2,7 @@
 date = '2025-11-23T07:27:00-4:00'
 draft = true
 title = 'Podcast Roundup Late November 2025'
-tags = ['Podcasts]
+tags = ['Podcasts']
 +++
 
 # Podcast Roundup

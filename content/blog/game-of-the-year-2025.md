@@ -1,0 +1,71 @@
++++
+date = '2025-11-23T07:27:00-4:00'
+draft = true
+title = 'Podcast Roundup Late November 2025'
+tags = ['Video Games']
++++
+
+## Game of the Year 2025
+
+It's fun to think about which experiences you would rank highest in a given year. I tend to play a decent amount of games, so finding which one is best in a given year is also a great way to cement what I was thinking and doing and working through that year. 
+
+In previous years I've had two GOTY picks:
+
+- One for best game that came out this year
+- One for best game I've played this year (no matter when it came out.)
+
+For this year, there's some context logged in [page](https://trinitui.neocities.org/) for some games that I played in like Jan - March this year.
+
+### Best Game of 2025
+
+Below are the games I've shortlisted from what I've played this year.
+
+- Caves of Qud
+- Citizen Sleeper 2
+- Fantasy Life
+- BF6
+- EU5
+
+
+### Best Game from any year
+
+Here's the highlights from this year:
+
+- Ascension
+- Bloons TD6
+- Rimworld
+- BF2042
+- Citizen Sleeper
+- Death Stranding
+- Brotato
+- XCOM 2
+- OpenFront.io
+
+### Crysis Series Playthrough
+
+Starting in 2022, I decided to focus on some series that have always interested me. I'll play through most, if not all, of the games I can get easily and rate / score them as I go.
+
+This year I played the Crysis series - 1, 2, and 3.
+
+- **Crysis 1** is a great time, and it's short length is to it's benefit. It does the gunplay and sandbox-lite elements really well, and I can see it being a Halo 1 clone if it was released before Halo 2 came out. It's not that insane of a graphical lift these days, and I think it's a must play for any shooter-head.
+
+- I had played **Crysis 2** before, when it came to the X360 in like 2010 or 11. It's so agressively mid-tier and of it's time that it can be charming at times, but ultimtely it's a chore. Like if 1 was inspired by Halo, 2 is inspired by Modern Warfare 2, down to the shlocky and overwrought story and voice clips. 
+
+- **Crysis 3** is the most forgettable game out there. It looks good, and was a great posterchild for the early 2010's "bows are cool" fad, but otherwise it doesn't really do anything that 2 doesn't. It's overwraught, annoying, and forgettable. I can see why Crysis fell off after 3, there was nothing left in the tank.
+
+### OpenTTD "Series" Playthroughs
+
+OpenTTD has spawned so many copycats. When I first got into OpenTTD in late 2024, I gave a lot of these other games a new look. This year, I played:
+
+- **Transport Fever**: I only dabbled with this one, and then moved over to 2. 
+- **Transport Fever 2**: really good, but a huge time sink. I don't really have the time to devote to building up a network right now.
+- **Simutrans**: Free, and not very good :( 
+
+## Games of the Year
+
+- 2025: 
+- Any year:
+
+### Looking Ahead
+
+Need to rethink [this](https://trinitui.neocities.org/rankfishing) page. Maybe a job for 2026?
