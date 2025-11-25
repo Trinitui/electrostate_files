@@ -1,6 +1,6 @@
 +++
 date = '2025-11-24T10:27:00-4:00'
-draft = true
+draft = false
 title = 'Analytics: Fishing Games'
 tags = ['Video Games','Analytics']
 +++
@@ -27,8 +27,8 @@ This effect started in 2010, but started picking up in 2013. But by 2016, someth
 
 ### 2016: Stardew Valley
 
-There's a blog post to be made about how Stardew Valley changed a subset of Video Games.
+Certainly some of the increase in fishing games are due to Stardew Valley, which was a real paradigm shift for indie games. From my perspective, indies moved from Fez to something less rareified, more authentic, and more free. Stardew Valley helped to popularize a movement and cement indies as a powerful new stream in gaming. And you see that, post 2016. There have been few AA+ releases that are focused on or adjacent to fishing... it's all indies!
 
-### So... what happened? 
+### So... what happened?
 
-Why is it 2025 and this boom has ended?
+Maybe there's an issue with this data. It's strange that in 2024 and 2025 there are no mobile games included, so perhaps there's a data issue. More analysis of this data source will be needed, in future posts.
