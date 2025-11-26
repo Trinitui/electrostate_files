@@ -6,8 +6,30 @@
     <description>Recent content in Blog on The Electrostate</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 16 Nov 2025 16:43:27 -0500</lastBuildDate>
+    <lastBuildDate>Tue, 25 Nov 2025 09:17:03 -0400</lastBuildDate>
     <atom:link href="https://example.org/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Analytics: Fishing Games</title>
+      <link>https://example.org/blog/fish-game-db-analytics/</link>
+      <pubDate>Mon, 24 Nov 2025 10:27:01 +0000</pubDate>
+      <guid>https://example.org/blog/fish-game-db-analytics/</guid>
+      <description>&lt;h2 id=&#34;we-no-longer-need-a-bigger-boat&#34;&gt;We no longer need a bigger boat&lt;/h2&gt;&#xA;&lt;p&gt;Fishing games appear to have moved past their prime. In the below graph (from &lt;a href=&#34;https://rawg.io/apidocs&#34;&gt;rawg api data&lt;/a&gt;) you can see that 2021 and 2022 were the clear highs for this type of game.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://example.org/content/images/fishing_games_w_reviews.png&#34; alt=&#34;Games with reviews&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;What you can also see is that very few, if any, of these games have garnered any attention. Maybe 5% of a given year&amp;rsquo;s games are played enough for the RAWG community to review.&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<h2 id="we-no-longer-need-a-bigger-boat">We no longer need a bigger boat</h2>
+<p>Fishing games appear to have moved past their prime. In the below graph (from <a href="https://rawg.io/apidocs">rawg api data</a>) you can see that 2021 and 2022 were the clear highs for this type of game.</p>
+<p><img src="/content/images/fishing_games_w_reviews.png" alt="Games with reviews"></p>
+<p>What you can also see is that very few, if any, of these games have garnered any attention. Maybe 5% of a given year&rsquo;s games are played enough for the RAWG community to review.</p>
+<p>Further, the clear king of fishing games, Dredge, was released in the later half of 2023, well beyond the end of the boom.</p>
+<p>So what happened in 2013 or 2016 that led to such a boom? I have some thoughs below.</p>
+<h3 id="2013-apps">2013: Apps</h3>
+<p>2013 is about when mobile gaming is really breaking through. More people have phones that can play games, and app stores have made it trivially easy to try games out.</p>
+<p><img src="/content/images/platforms_data.png" alt="platforms"></p>
+<p>This effect started in 2010, but started picking up in 2013. But by 2016, something else happened in gaming that, along with mobile phone adoption, made fishing an attractive feature in games.</p>
+<h3 id="2016-stardew-valley">2016: Stardew Valley</h3>
+<p>Certainly some of the increase in fishing games are due to Stardew Valley, which was a real paradigm shift for indie games. From my perspective, indies moved from Fez to something less rareified, more authentic, and more free. Stardew Valley helped to popularize a movement and cement indies as a powerful new stream in gaming. And you see that, post 2016. There have been few AA+ releases that are focused on or adjacent to fishing&hellip; it&rsquo;s all indies!</p>
+<h3 id="so-what-happened">So&hellip; what happened?</h3>
+<p>Maybe there&rsquo;s an issue with this data. It&rsquo;s strange that in 2024 and 2025 there are no mobile games included, so perhaps there&rsquo;s a data issue. More analysis of this data source will be needed, in future posts.</p>
+]]></content:encoded>
+    </item>
     <item>
       <title>Video Game Roundup Late November 2025</title>
       <link>https://example.org/blog/video-game-roundup-late-november-2025/</link>

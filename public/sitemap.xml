@@ -3,21 +3,30 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://example.org/</loc>
-    <lastmod>2025-11-16T16:43:27-05:00</lastmod>
+    <lastmod>2025-11-25T09:17:03-04:00</lastmod>
   </url><url>
     <loc>https://example.org/blog/</loc>
-    <lastmod>2025-11-16T16:43:27-05:00</lastmod>
+    <lastmod>2025-11-25T09:17:03-04:00</lastmod>
+  </url><url>
+    <loc>https://example.org/tags/analytics/</loc>
+    <lastmod>2025-11-24T10:27:01+00:00</lastmod>
+  </url><url>
+    <loc>https://example.org/blog/fish-game-db-analytics/</loc>
+    <lastmod>2025-11-24T10:27:01+00:00</lastmod>
   </url><url>
     <loc>https://example.org/tags/</loc>
-    <lastmod>2025-11-16T16:43:27-05:00</lastmod>
+    <lastmod>2025-11-24T10:27:01+00:00</lastmod>
+  </url><url>
+    <loc>https://example.org/tags/video-games/</loc>
+    <lastmod>2025-11-24T10:27:01+00:00</lastmod>
   </url><url>
     <loc>https://example.org/blog/video-game-roundup-late-november-2025/</loc>
     <lastmod>2025-11-16T16:43:27-05:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/video-games/</loc>
-    <lastmod>2025-11-16T16:43:27-05:00</lastmod>
-  </url><url>
     <loc>https://example.org/blog/podcast-roundup-late-october-2025/</loc>
+    <lastmod>2025-10-27T19:11:58-04:00</lastmod>
+  </url><url>
+    <loc>https://example.org/tags/podcasts/</loc>
     <lastmod>2025-10-27T19:11:58-04:00</lastmod>
   </url><url>
     <loc>https://example.org/blog/video-game-roundup-late-october-2025/</loc>

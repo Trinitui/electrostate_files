@@ -1,5 +1,5 @@
 +++
-date = '2025-1011-19T07:46:53-04:00'
+date = '2025-10-19T07:46:53-04:00'
 draft = true
 title = 'Ascension Reflections'
 tags = ['Video Games']
@@ -12,7 +12,7 @@ This is my favorite deckbuilding game . It's insipired by Magic (a bit) but ever
 
 This seems like an expensive game to keep up with physically. There's many expansions, and each can be played either independently or all together - but we're talking like hundreds of dollars of investment to keep up with. That's why the mobile/PC/Mac game is so great - you don't need to pay for all the expansions. 
 
-My current favorite expansion? 
+My current favorite expansion?
 
 - Realms Unchained
 

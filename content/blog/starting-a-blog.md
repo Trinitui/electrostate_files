@@ -5,7 +5,6 @@ title = 'Starting a blog'
 author = "Andrew Whelan"
 description = "Starting this blog"
 tags = ["personal","Solar"]
-
 +++
 
 ## Why?

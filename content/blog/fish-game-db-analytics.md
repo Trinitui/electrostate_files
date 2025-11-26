@@ -1,5 +1,5 @@
 +++
-date = '2025-11-24T10:27:00-4:00'
+date = '2025-11-24T10:27:01'
 draft = false
 title = 'Analytics: Fishing Games'
 tags = ['Video Games','Analytics']
