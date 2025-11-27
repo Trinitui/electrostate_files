@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Podcasts on The Electrostate</title>
-    <link>https://example.org/tags/podcasts/</link>
+    <link>http://localhost:1313/tags/podcasts/</link>
     <description>Recent content in Podcasts on The Electrostate</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 27 Oct 2025 19:11:58 -0400</lastBuildDate>
-    <atom:link href="https://example.org/tags/podcasts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/podcasts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Podcast Roundup Late October 2025</title>
-      <link>https://example.org/blog/podcast-roundup-late-october-2025/</link>
+      <link>http://localhost:1313/blog/podcast-roundup-late-october-2025/</link>
       <pubDate>Mon, 27 Oct 2025 19:11:58 -0400</pubDate>
-      <guid>https://example.org/blog/podcast-roundup-late-october-2025/</guid>
+      <guid>http://localhost:1313/blog/podcast-roundup-late-october-2025/</guid>
       <description>&lt;h1 id=&#34;podcast-roundup&#34;&gt;Podcast Roundup&lt;/h1&gt;&#xA;&lt;p&gt;A quick overview of what I&amp;rsquo;m listening to&lt;/p&gt;&#xA;&lt;h3 id=&#34;hardcore-gaming-101s-top-47k-games&#34;&gt;Hardcore Gaming 101&amp;rsquo;s Top 47k games&lt;/h3&gt;&#xA;&lt;p&gt;I&amp;rsquo;ve been listening to this one for maybe almost six months? It&amp;rsquo;s a good show for commuting, and I always like hearing people explain why they are passionate about different games. It&amp;rsquo;s rare that a game that came out in the past 10 years is covered, so it&amp;rsquo;s good to hear about obscure games and their stories.&lt;/p&gt;</description>
       <content:encoded><![CDATA[<h1 id="podcast-roundup">Podcast Roundup</h1>
 <p>A quick overview of what I&rsquo;m listening to</p>

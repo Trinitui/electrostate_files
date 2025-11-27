@@ -2,27 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Blog on The Electrostate</title>
-    <link>https://example.org/blog/</link>
+    <link>http://localhost:1313/blog/</link>
     <description>Recent content in Blog on The Electrostate</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 25 Nov 2025 09:17:03 -0400</lastBuildDate>
-    <atom:link href="https://example.org/blog/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Analytics: Fishing Games</title>
-      <link>https://example.org/blog/fish-game-db-analytics/</link>
+      <link>http://localhost:1313/blog/fish-game-db-analytics/</link>
       <pubDate>Mon, 24 Nov 2025 10:27:01 +0000</pubDate>
-      <guid>https://example.org/blog/fish-game-db-analytics/</guid>
-      <description>&lt;h2 id=&#34;we-no-longer-need-a-bigger-boat&#34;&gt;We no longer need a bigger boat&lt;/h2&gt;&#xA;&lt;p&gt;Fishing games appear to have moved past their prime. In the below graph (from &lt;a href=&#34;https://rawg.io/apidocs&#34;&gt;rawg api data&lt;/a&gt;) you can see that 2021 and 2022 were the clear highs for this type of game.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://example.org/content/images/fishing_games_w_reviews.png&#34; alt=&#34;Games with reviews&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;What you can also see is that very few, if any, of these games have garnered any attention. Maybe 5% of a given year&amp;rsquo;s games are played enough for the RAWG community to review.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/blog/fish-game-db-analytics/</guid>
+      <description>&lt;h2 id=&#34;we-no-longer-need-a-bigger-boat&#34;&gt;We no longer need a bigger boat&lt;/h2&gt;&#xA;&lt;p&gt;Fishing games appear to have moved past their prime. In the below graph (from &lt;a href=&#34;https://rawg.io/apidocs&#34;&gt;rawg api data&lt;/a&gt;) you can see that 2021 and 2022 were the clear highs for this type of game.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/static/images/fishing_games_w_reviews.png&#34; alt=&#34;Games with reviews&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;What you can also see is that very few, if any, of these games have garnered any attention. Maybe 5% of a given year&amp;rsquo;s games are played enough for the RAWG community to review.&lt;/p&gt;</description>
       <content:encoded><![CDATA[<h2 id="we-no-longer-need-a-bigger-boat">We no longer need a bigger boat</h2>
 <p>Fishing games appear to have moved past their prime. In the below graph (from <a href="https://rawg.io/apidocs">rawg api data</a>) you can see that 2021 and 2022 were the clear highs for this type of game.</p>
-<p><img src="/content/images/fishing_games_w_reviews.png" alt="Games with reviews"></p>
+<p><img src="/static/images/fishing_games_w_reviews.png" alt="Games with reviews"></p>
 <p>What you can also see is that very few, if any, of these games have garnered any attention. Maybe 5% of a given year&rsquo;s games are played enough for the RAWG community to review.</p>
 <p>Further, the clear king of fishing games, Dredge, was released in the later half of 2023, well beyond the end of the boom.</p>
 <p>So what happened in 2013 or 2016 that led to such a boom? I have some thoughs below.</p>
 <h3 id="2013-apps">2013: Apps</h3>
 <p>2013 is about when mobile gaming is really breaking through. More people have phones that can play games, and app stores have made it trivially easy to try games out.</p>
-<p><img src="/content/images/platforms_data.png" alt="platforms"></p>
+<p><img src="/static/images/platforms_data.png" alt="platforms"></p>
 <p>This effect started in 2010, but started picking up in 2013. But by 2016, something else happened in gaming that, along with mobile phone adoption, made fishing an attractive feature in games.</p>
 <h3 id="2016-stardew-valley">2016: Stardew Valley</h3>
 <p>Certainly some of the increase in fishing games are due to Stardew Valley, which was a real paradigm shift for indie games. From my perspective, indies moved from Fez to something less rareified, more authentic, and more free. Stardew Valley helped to popularize a movement and cement indies as a powerful new stream in gaming. And you see that, post 2016. There have been few AA+ releases that are focused on or adjacent to fishing&hellip; it&rsquo;s all indies!</p>
@@ -32,9 +32,9 @@
     </item>
     <item>
       <title>Video Game Roundup Late November 2025</title>
-      <link>https://example.org/blog/video-game-roundup-late-november-2025/</link>
+      <link>http://localhost:1313/blog/video-game-roundup-late-november-2025/</link>
       <pubDate>Sun, 16 Nov 2025 16:43:27 -0500</pubDate>
-      <guid>https://example.org/blog/video-game-roundup-late-november-2025/</guid>
+      <guid>http://localhost:1313/blog/video-game-roundup-late-november-2025/</guid>
       <description>&lt;h1 id=&#34;video-game-roundup&#34;&gt;Video Game Roundup&lt;/h1&gt;&#xA;&lt;p&gt;Here&amp;rsquo;s a view of the games I&amp;rsquo;ve been playing recently.&lt;/p&gt;&#xA;&lt;h3 id=&#34;europa-universalis-v&#34;&gt;Europa Universalis V&lt;/h3&gt;&#xA;&lt;p&gt;They finally made a decent followup to Vicky 2, and put it in a nearly over-designed game. Love it, love playing it, love not know what the heck is going on, and love that these are the early days and more content is coming. This is a wonderful game on it&amp;rsquo;s own, and a fantastic foundation for future content.&lt;/p&gt;</description>
       <content:encoded><![CDATA[<h1 id="video-game-roundup">Video Game Roundup</h1>
 <p>Here&rsquo;s a view of the games I&rsquo;ve been playing recently.</p>
@@ -64,9 +64,9 @@
     </item>
     <item>
       <title>Podcast Roundup Late October 2025</title>
-      <link>https://example.org/blog/podcast-roundup-late-october-2025/</link>
+      <link>http://localhost:1313/blog/podcast-roundup-late-october-2025/</link>
       <pubDate>Mon, 27 Oct 2025 19:11:58 -0400</pubDate>
-      <guid>https://example.org/blog/podcast-roundup-late-october-2025/</guid>
+      <guid>http://localhost:1313/blog/podcast-roundup-late-october-2025/</guid>
       <description>&lt;h1 id=&#34;podcast-roundup&#34;&gt;Podcast Roundup&lt;/h1&gt;&#xA;&lt;p&gt;A quick overview of what I&amp;rsquo;m listening to&lt;/p&gt;&#xA;&lt;h3 id=&#34;hardcore-gaming-101s-top-47k-games&#34;&gt;Hardcore Gaming 101&amp;rsquo;s Top 47k games&lt;/h3&gt;&#xA;&lt;p&gt;I&amp;rsquo;ve been listening to this one for maybe almost six months? It&amp;rsquo;s a good show for commuting, and I always like hearing people explain why they are passionate about different games. It&amp;rsquo;s rare that a game that came out in the past 10 years is covered, so it&amp;rsquo;s good to hear about obscure games and their stories.&lt;/p&gt;</description>
       <content:encoded><![CDATA[<h1 id="podcast-roundup">Podcast Roundup</h1>
 <p>A quick overview of what I&rsquo;m listening to</p>
@@ -82,9 +82,9 @@
     </item>
     <item>
       <title>Video Game Roundup Late October 2025</title>
-      <link>https://example.org/blog/video-game-roundup-late-october-2025/</link>
+      <link>http://localhost:1313/blog/video-game-roundup-late-october-2025/</link>
       <pubDate>Fri, 24 Oct 2025 16:42:43 -0400</pubDate>
-      <guid>https://example.org/blog/video-game-roundup-late-october-2025/</guid>
+      <guid>http://localhost:1313/blog/video-game-roundup-late-october-2025/</guid>
       <description>&lt;h1 id=&#34;video-game-roundup&#34;&gt;Video Game Roundup&lt;/h1&gt;&#xA;&lt;p&gt;Here&amp;rsquo;s a view of the games I&amp;rsquo;ve been playing recently.&lt;/p&gt;&#xA;&lt;h3 id=&#34;battlefield-6&#34;&gt;Battlefield 6&lt;/h3&gt;&#xA;&lt;p&gt;I try to dip into this when I can. While I&amp;rsquo;m not happy with the state of AAA games, my one exception is the Battlefield series. I&amp;rsquo;ve been hooked since I played 3 back in 2013 and though I haven&amp;rsquo;t played all since that released, I&amp;rsquo;ve tried to dip in when I can. I think 2042 ended up in a cool place when I re-visited it this year, and 6 is legitimately good. Excited to play more.&lt;/p&gt;</description>
       <content:encoded><![CDATA[<h1 id="video-game-roundup">Video Game Roundup</h1>
 <p>Here&rsquo;s a view of the games I&rsquo;ve been playing recently.</p>
@@ -107,9 +107,9 @@
     </item>
     <item>
       <title>Solar Dreams</title>
-      <link>https://example.org/blog/solar-dreams/</link>
+      <link>http://localhost:1313/blog/solar-dreams/</link>
       <pubDate>Thu, 23 Oct 2025 18:29:40 -0400</pubDate>
-      <guid>https://example.org/blog/solar-dreams/</guid>
+      <guid>http://localhost:1313/blog/solar-dreams/</guid>
       <description>&lt;h1 id=&#34;the-sun-shines-everywhere&#34;&gt;The Sun Shines Everywhere&lt;/h1&gt;&#xA;&lt;p&gt;There&amp;rsquo;s a lot of solar around me. By that, I mean take a look at a new country-club type place in town that the town is generating energy off of. It&amp;rsquo;s been installed for over a year and the combo of solar power and batteries has really brought down costs in Medfield.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://images.squarespace-cdn.com/content/v1/59552faaff7c50fb8b38c931/15436b60-9522-41a7-921a-2de429bd3826/DJI_0868.JPG?format=1500w&#34; alt=&#34;image&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;I consider Medfield to be typical of suburbia in the greater Boston area, and so what is accomplishable here should be portable to lots of different places in the region. Some solutions will be easier to implement than others, but I think this town is a good yardstick for what the region can get on board with.&lt;/p&gt;</description>
       <content:encoded><![CDATA[<h1 id="the-sun-shines-everywhere">The Sun Shines Everywhere</h1>
 <p>There&rsquo;s a lot of solar around me. By that, I mean take a look at a new country-club type place in town that the town is generating energy off of. It&rsquo;s been installed for over a year and the combo of solar power and batteries has really brought down costs in Medfield.</p>
@@ -120,9 +120,9 @@
     </item>
     <item>
       <title>Starting a blog</title>
-      <link>https://example.org/blog/starting-a-blog/</link>
+      <link>http://localhost:1313/blog/starting-a-blog/</link>
       <pubDate>Thu, 23 Oct 2025 16:17:03 -0400</pubDate>
-      <guid>https://example.org/blog/starting-a-blog/</guid>
+      <guid>http://localhost:1313/blog/starting-a-blog/</guid>
       <description>&lt;h2 id=&#34;why&#34;&gt;Why?&lt;/h2&gt;&#xA;&lt;p&gt;Since March 2020 I&amp;rsquo;ve wanted to journal about life, and the past five and a half years have just been full of reasons why a journal of these times is so important.&lt;/p&gt;&#xA;&lt;p&gt;But why the name? I&amp;rsquo;m really excited by what is going on in electrification, specifically with solar panels taking off in a huge way over the past two to three years. I&amp;rsquo;m hoping this planet&amp;rsquo;s journey to a more solar powered future is a prominent theme to this blog.&lt;/p&gt;</description>
       <content:encoded><![CDATA[<h2 id="why">Why?</h2>
 <p>Since March 2020 I&rsquo;ve wanted to journal about life, and the past five and a half years have just been full of reasons why a journal of these times is so important.</p>
