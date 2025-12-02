@@ -1,13 +1,13 @@
 +++
 date = '2025-11-23T07:27:00'
 draft = true
-title = 'Podcast Roundup Late November 2025'
+title = 'Game of the Year 2025'
 tags = ['Video Games']
 +++
 
 ## Game of the Year 2025
 
-It's fun to think about which experiences you would rank highest in a given year. I tend to play a decent amount of games, so finding which one is best in a given year is also a great way to cement what I was thinking and doing and working through that year. 
+It's fun to think about which experiences you would rank highest in a given year. I tend to play a decent amount of games, so finding which one is best in a given year is also a great way to cement what I was thinking and doing and working through that year.
 
 In previous years I've had two GOTY picks:
 
@@ -51,7 +51,7 @@ This year I played the Crysis series - 1, 2, and 3.
 
 - I had played **Crysis 2** before, when it came to the X360 in like 2010 or 11. It's so agressively mid-tier and of it's time that it can be charming at times, but ultimtely it's a chore. Like if 1 was inspired by Halo, 2 is inspired by Modern Warfare 2, down to the shlocky and overwrought story and voice clips. 
 
-- **Crysis 3** is the most forgettable game out there. It looks good, and was a great posterchild for the early 2010's "bows are cool" fad, but otherwise it doesn't really do anything that 2 doesn't. It's overwraught, annoying, and forgettable. I can see why Crysis fell off after 3, there was nothing left in the tank.
+- **Crysis 3** is the most forgettable game of the series. It looks good, and was a great posterchild for the early 2010's "bows are cool" fad, but otherwise it doesn't really do anything that 2 doesn't. It's overwraught, annoying, and forgettable. I can see why Crysis fell off after 3, there was nothing left in the tank.
 
 ### OpenTTD "Series" Playthroughs
 
