@@ -61,7 +61,14 @@ OpenTTD has spawned so many copycats. When I first got into OpenTTD in late 2024
 - **Transport Fever 2**: really good, but a huge time sink. I don't really have the time to devote to building up a network right now.
 - **Simutrans**: Free, and not very good :( 
 
-## Games of the Year
+### KOTOR Series Playthru
+
+I ended up accidentally playing through these games as I wanted to play through them with AMCA's coverage of them.
+
+- **KOTOR 1**: This game kinda sucks, compared to where BioWare would go in the future. I have a soft spot for Mass Effect, so seeing this made me just want to dip back in to ME. And, it has too many rough edges and difficulty spikes that can only be fixed by re-rolling your character. That's cool in a D&D game where I have the docs open, but not in a Star Wars game.
+- **KOTOR2**: A much better game! Sure the difficulty isn't there quite so much, but it really lives up to what Star Wars could be. It's deep, decently well written, and though a mess in terms of development it really shines. This is really what KOTOR1 should have been. Not to mention, it does replayability really well!
+
+## Game of the Year
 
 - 2025: 
 - Any year:
