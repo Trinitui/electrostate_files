@@ -1,6 +1,6 @@
 +++
 date = '2025-11-23T07:27:00'
-draft = true
+draft = false
 title = 'Game of the Year 2025'
 tags = ['Video Games']
 +++
@@ -40,6 +40,8 @@ Here's the highlights from this year:
 - Brotato
 - XCOM 2
 - OpenFront.io
+- KOTOR
+- KOTOR 2
 
 ### Crysis Series Playthrough
 
@@ -66,12 +68,15 @@ OpenTTD has spawned so many copycats. When I first got into OpenTTD in late 2024
 I ended up accidentally playing through these games as I wanted to play through them with AMCA's coverage of them.
 
 - **KOTOR 1**: This game kinda sucks, compared to where BioWare would go in the future. I have a soft spot for Mass Effect, so seeing this made me just want to dip back in to ME. And, it has too many rough edges and difficulty spikes that can only be fixed by re-rolling your character. That's cool in a D&D game where I have the docs open, but not in a Star Wars game.
+    - UPDATE! Played through this game again in December, and it was really fun! The D20 system makes a ton of sense when you get into it, and party management / use is deeper than Mass Effect. Updating my options here to: KOTOR is good, actually.
 - **KOTOR2**: A much better game! Sure the difficulty isn't there quite so much, but it really lives up to what Star Wars could be. It's deep, decently well written, and though a mess in terms of development it really shines. This is really what KOTOR1 should have been. Not to mention, it does replayability really well!
 
 ## Game of the Year
 
-- 2025: 
+- 2025:
+    - EU5 - mostly because other games just did't hit this year.
 - Any year:
+    - Rimworld - has to be. This was such a huge part of this year for me, and though other games have shined since then, this can't be ignored.
 
 ### Looking Ahead
 
