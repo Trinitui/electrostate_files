@@ -1,5 +1,5 @@
 +++
-date = '2025-11-23T07:27:00'
+date = '2026-01-01T15:27:00'
 draft = false
 title = 'Game of the Year 2025'
 tags = ['Video Games']
