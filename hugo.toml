@@ -4,6 +4,10 @@ title = 'The Electrostate'
 
 theme = 'hugo-bearcub'
 
+[params]
+  [params.author]
+    name = 'The Electrostate'
+
 [caches]
   [caches.images]
     dir = ':cacheDir/images'
