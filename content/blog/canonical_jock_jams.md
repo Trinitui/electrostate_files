@@ -9,7 +9,7 @@ tags = ['History','Jams']
 
 ## Jock Jams
 
-![The Final Installment](/content/images/Jock_Jams_6.jpg)
+![The Final Installment](/images/Jock_Jams_6.jpg)
 
 
 Jock Jams are the iconic, blasting anthems that were developed throughout the 90's for use primarily at sports games. Or, at least that's where they were played. These are the sorts of loud yet somewhat ambient music that you head from the Jumbotron as you get another beer in between periods. By their very ubiqity, they so easily evade notice.
@@ -18,7 +18,7 @@ However, they have surfaced here and there in pop culture, though unfortunately 
 
 But - I think they are cool. They are works created with such narrow focus that they do deserve to be understood. I've spent around a decade (embarassing admission) learning about these anthems and codifying them. Early on I decided that they needed to be understood as the Catholic Church understands its' materials: by creating a canon ranking of them.
 
-![Canonicity, from https://www.youtube.com/watch?v=9cmMU-tdac8](/content/images/canonicity_diagram.jpg)
+![Canonicity, from https://www.youtube.com/watch?v=9cmU-tdac8](/images/canonicity_diagram.jpg)
 
 The Church was smart to do this - there were so many stories about Jesus around where he could do just about anything, and that estabilishing a way of categorizing the "truth" of the stories was their only way forward. Not to exaggerate, but I had the **same** problem when I first decided to understand this genre.
 

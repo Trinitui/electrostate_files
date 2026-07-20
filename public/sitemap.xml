@@ -3,18 +3,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://example.org/</loc>
-    <lastmod>2026-05-02T20:54:56+00:00</lastmod>
+    <lastmod>2026-06-30T11:25:12+00:00</lastmod>
   </url><url>
     <loc>https://example.org/blog/</loc>
-    <lastmod>2026-05-02T20:54:56+00:00</lastmod>
+    <lastmod>2026-06-30T11:25:12+00:00</lastmod>
   </url><url>
     <loc>https://example.org/tags/</loc>
-    <lastmod>2026-05-02T20:54:56+00:00</lastmod>
+    <lastmod>2026-06-30T11:25:12+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/blog/video-game-roundup-may-2026/</loc>
-    <lastmod>2026-05-02T20:54:56+00:00</lastmod>
+    <loc>https://example.org/blog/video-game-roundup-june-2026/</loc>
+    <lastmod>2026-06-30T11:25:12+00:00</lastmod>
   </url><url>
     <loc>https://example.org/tags/video-games/</loc>
+    <lastmod>2026-06-30T11:25:12+00:00</lastmod>
+  </url><url>
+    <loc>https://example.org/blog/video-game-roundup-may-2026/</loc>
     <lastmod>2026-05-02T20:54:56+00:00</lastmod>
   </url><url>
     <loc>https://example.org/blog/video-game-roundup-q1-2026/</loc>

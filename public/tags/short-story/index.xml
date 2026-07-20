@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Short Story on The Electrostate</title>
+    <link>http://localhost:1313/tags/short-story/</link>
+    <description>Recent content in Short Story on The Electrostate</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 02 May 2026 21:08:39 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/short-story/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Short Story 1</title>
+      <link>http://localhost:1313/blog/short-story-1/</link>
+      <pubDate>Sat, 02 May 2026 21:08:39 +0000</pubDate>
+      <guid>http://localhost:1313/blog/short-story-1/</guid>
+      <description>&lt;h2 id=&#34;ss1&#34;&gt;SS1&lt;/h2&gt;&#xA;&lt;p&gt;Shafts of dawn washed over the steel chassis of a modified Three-Type Cruiser. Slowly, the distinct bands of light resolved into a warm glow, originating over the horizon, and the light blanketed the cold metal hull. Inside the crusier there as a relaxed, casual atmosphere - the crusier, Atmo_1, had recently shipped out of Cascadia Prime and the crew were still feeling the results of their shore leave.&#xA;Atmo_1, being eqipped with as many varied scientific instruments as could be afforded, was headed first to the core before slingshotting outside of the galactic plane to investigate anomalies found during routine survellance sweeps. This was as easy an assignment as the crew could hope for, and as they readied their outbound course the small chatter died down as they worked dilligently towards it.&#xA;John Spaceman&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<h2 id="ss1">SS1</h2>
+<p>Shafts of dawn washed over the steel chassis of a modified Three-Type Cruiser. Slowly, the distinct bands of light resolved into a warm glow, originating over the horizon, and the light blanketed the cold metal hull. Inside the crusier there as a relaxed, casual atmosphere - the crusier, Atmo_1, had recently shipped out of Cascadia Prime and the crew were still feeling the results of their shore leave.
+Atmo_1, being eqipped with as many varied scientific instruments as could be afforded, was headed first to the core before slingshotting outside of the galactic plane to investigate anomalies found during routine survellance sweeps. This was as easy an assignment as the crew could hope for, and as they readied their outbound course the small chatter died down as they worked dilligently towards it.
+John Spaceman</p>
+]]></content:encoded>
+    </item>
+  </channel>
+</rss>
