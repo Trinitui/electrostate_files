@@ -7,7 +7,7 @@ tags = ['Video Games']
 
 # Video Game Roundup
 
-![image](/images/ff7back.jpg)
+![ff7background](https://cdn.wccftech.com/wp-content/uploads/2019/01/final-fantasy-vii-remako-mod-1.jpg)
 
 ## Final Fantasy 7
 

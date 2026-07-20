@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Analytics on The Electrostate</title>
-    <link>https://example.org/tags/analytics/</link>
+    <link>https://trinitui.github.io/electrostate_files/tags/analytics/</link>
     <description>Recent content in Analytics on The Electrostate</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 24 Nov 2025 10:27:01 +0000</lastBuildDate>
-    <atom:link href="https://example.org/tags/analytics/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://trinitui.github.io/electrostate_files/tags/analytics/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Analytics: Fishing Games</title>
-      <link>https://example.org/blog/fish-game-db-analytics/</link>
+      <link>https://trinitui.github.io/electrostate_files/blog/fish-game-db-analytics/</link>
       <pubDate>Mon, 24 Nov 2025 10:27:01 +0000</pubDate>
-      <guid>https://example.org/blog/fish-game-db-analytics/</guid>
-      <description>&lt;h2 id=&#34;we-no-longer-need-a-bigger-boat&#34;&gt;We no longer need a bigger boat&lt;/h2&gt;&#xA;&lt;p&gt;Fishing games appear to have moved past their prime. In the below graph (from &lt;a href=&#34;https://rawg.io/apidocs&#34;&gt;rawg api data&lt;/a&gt;) you can see that 2021 and 2022 were the clear highs for this type of game.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://example.org/images/fishing_games_w_reviews.png&#34; alt=&#34;Games with reviews&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;What you can also see is that very few, if any, of these games have garnered any attention. Maybe 5% of a given year&amp;rsquo;s games are played enough for the RAWG community to review.&lt;/p&gt;</description>
+      <guid>https://trinitui.github.io/electrostate_files/blog/fish-game-db-analytics/</guid>
+      <description>&lt;h2 id=&#34;we-no-longer-need-a-bigger-boat&#34;&gt;We no longer need a bigger boat&lt;/h2&gt;&#xA;&lt;p&gt;Fishing games appear to have moved past their prime. In the below graph (from &lt;a href=&#34;https://rawg.io/apidocs&#34;&gt;rawg api data&lt;/a&gt;) you can see that 2021 and 2022 were the clear highs for this type of game.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://trinitui.github.io/electrostate_files/images/fishing_games_w_reviews.png&#34; alt=&#34;Games with reviews&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;What you can also see is that very few, if any, of these games have garnered any attention. Maybe 5% of a given year&amp;rsquo;s games are played enough for the RAWG community to review.&lt;/p&gt;</description>
       <content:encoded><![CDATA[<h2 id="we-no-longer-need-a-bigger-boat">We no longer need a bigger boat</h2>
 <p>Fishing games appear to have moved past their prime. In the below graph (from <a href="https://rawg.io/apidocs">rawg api data</a>) you can see that 2021 and 2022 were the clear highs for this type of game.</p>
 <p><img src="/images/fishing_games_w_reviews.png" alt="Games with reviews"></p>
