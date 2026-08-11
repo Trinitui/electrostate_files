@@ -10,5 +10,5 @@ Entries [here](https://trinitui.github.io/electrostate_files/blog/)
 
 You can also find me online here - 
 - Personal Website: https://trinitui.com
-- Fediverse: trinitui@mstdn.games
+- Fediverse: trinitui@mstdn.games | https://mstdn.games/@trinitui
 - Neocities (Discontinued): https://trinitui.neocities.org/
