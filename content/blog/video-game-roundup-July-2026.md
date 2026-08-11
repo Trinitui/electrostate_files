@@ -7,7 +7,7 @@ tags = ['Video Games']
 
 # Video Game Roundup
 
-[!image](https://preview.redd.it/ive-been-doing-a-side-by-side-comparison-run-on-most-of-the-v0-86jquiutpj8e1.jpg?width=640&crop=smart&auto=webp&s=0df307d17acf13fafe4229769e08df883558c5ef)
+![image](https://preview.redd.it/ive-been-doing-a-side-by-side-comparison-run-on-most-of-the-v0-86jquiutpj8e1.jpg?width=640&crop=smart&auto=webp&s=0df307d17acf13fafe4229769e08df883558c5ef)
 
 ## Final Fantasy 7
 
