@@ -1,5 +1,5 @@
 +++
-date = '2026-08-11T20:12:28Z'
+date = '2026-08-11T12:12:28Z'
 draft = true
 title = 'Summer Series'
 tags = ['Video Games']
