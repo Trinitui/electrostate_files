@@ -21,7 +21,9 @@ Going deep with this one - trying to finish all the world intel and do as much s
 
 ## Pokemon Gen 1 Recomp
 
-Playing Pokemon Red through this project, and I'm almost done with it! What a triumph this project is - with mod support and better integrated QoL features, this is what these games need to bring their legacy forward. I've been waiting for something like this for a while, I've realized, and I couldn't be happier playing these classics again. 
+Playing Pokemon Red through this project, and I'm almost done with it! What a triumph this project is - with mod support and better integrated QoL features, this is what these games need to bring their legacy forward. I've been waiting for something like this for a while, I've realized, and I couldn't be happier playing these classics again.
+
+Gonna beat Gen 1 and then take a break before diving into Gen 2. 
 
 ## FFXIV 
 
