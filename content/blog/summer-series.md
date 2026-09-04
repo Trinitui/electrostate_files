@@ -12,7 +12,8 @@ Starting in 2023? 2024?, I started using my summers to play through a series of 
 Everyone should do this, it's fun!
 
 ## Series Played
-
+- 2022:
+    Sonic 1, 2, 3+K, Mania
 - 2023: 
     - Halo
 - 2024: 
