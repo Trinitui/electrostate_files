@@ -25,6 +25,15 @@ Playing Pokemon Red through this project, and I'm almost done with it! What a tr
 
 Gonna beat Gen 1 and then take a break before diving into Gen 2. 
 
+Beat it! Rolled credits with a team in the mid-40's. Nice. I beat it with:
+
+- Mageneton
+- Vaporeon
+- Venusaur
+- Sandslash
+- Alakazam
+- Magmar
+
 ## FFXIV 
 
 Playing on my PS4. It's actually a great time from the PS4, and I'm enjoying myself. Weirdly, I've never felt like I've gotten enough out of my PS4 in the eight years I've had it (YIKES). It's mostly sat there for Bloodborne and some other smaller games. It does have FFXII The Zodiac Age on it, though. That might be where I play that game. 
