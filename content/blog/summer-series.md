@@ -1,5 +1,6 @@
 +++
 date = '2026-08-11T12:12:28Z'
+lastmod = '2026-09-04'
 draft = false
 title = 'Summer Series'
 tags = ['Video Games']
