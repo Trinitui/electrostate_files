@@ -6,12 +6,15 @@ weight: 1
 
 ## Trinitui's Collected thoughts and logs
 
-Entries [here](https://trinitui.github.io/electrostate_files/blog/)
-
 ### Latest blog post
 
 {{< recent-post >}}
 
+<br>
+
+All entries [here](https://trinitui.github.io/electrostate_files/blog/)
+
+<br>
 You can also find me online here - 
 - Personal Website: https://trinitui.com
 - Fediverse: trinitui@mstdn.games | https://mstdn.games/@trinitui
