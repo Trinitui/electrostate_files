@@ -13,6 +13,7 @@ weight: 1
 
 All entries [here](https://trinitui.github.io/electrostate_files/blog/)
 
+### Other links
 You can also find me online here - 
 - Personal Website: https://trinitui.com
 - Fediverse: trinitui@mstdn.games | https://mstdn.games/@trinitui
