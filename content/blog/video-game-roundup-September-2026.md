@@ -7,7 +7,7 @@ tags = ['Video Games']
 
 # Video Game Roundup
 
-![image]()
+![image](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fstatic0.srcdn.com%2Fwordpress%2Fwp-content%2Fuploads%2F2024%2F04%2Fstar-wars-outlaws-kay-stands-over-the-rancor-pit-in-front-of-jabba-the-hutt.jpg%3Fq%3D49%26fit%3Dcrop%26w%3D825%26dpr%3D2&f=1&nofb=1&ipt=8eaecd0872411235adbbe9726cf640a6f0a80dc9c962565215004a7d5b33b4c6&ipo=images)
 
 
 ## Final Fantasy 7 Rebirth
@@ -21,3 +21,11 @@ I've enjoyed Remake and Rebirth, and I think I'll be happy playing Revelations w
 Picking this back up to beat it, and started a new save. It's fun! I can understand why this game didn't score well, but I've always thought it was successful. It does feel authentic to what an Outlaw would be in Star Wars, as the game prioritizes you rolling with the punches and moving ahead vs. a more MGS-style stealth experience. 
 
 It also looks good, plays well, and the UI is really well designed. I think it will fare better as time passes from it's release. 
+
+I beat it, and while the ending isn't amazing, the whole package of the game is worth it. Very happy with this one.
+
+## Victoria II
+
+I played a game of this as Japan, and it's still a fun time. Playing it again for the first time in probably 7 years, I can definitely understand why Paradox went in the directions they did with Vicky 3, namely their bigger focus on pops. Vicky 2 will always be the most arcadey of their offerings, and so if you want to play a Paradox game but not spend 40 hours on a run, this is your game.
+
+It's also worth noting how ambitious Paradox has gotten over time. Vicky 2, along with EU3, are a decent simulations, and in their time were a breath of fresh air. No one had seen a game like them back around 2010. Now, Paradox's games are deeply intertiwned and complex simulations of many different parts of statecraft. It makes them amazing triumphs of game design, though I wonder if it's always in the service of fun gameplay (looking at you EU5!).
